@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\05.06.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B017D1-C492-4BC9-9970-4FE153ECF837}|05.06.2024 HelperLibrary\\05.06.2024 HelperLibrary.csproj|c:\\users\\user\\desktop\\05.06.2024\\05.06.2024 helperlibrary\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B017D1-C492-4BC9-9970-4FE153ECF837}|05.06.2024 HelperLibrary\\05.06.2024 HelperLibrary.csproj|solutionrelative:05.06.2024 helperlibrary\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EE7925-B44C-4FEE-B5E9-C70873F4C827}|05.06.2024\\05.06.2024.csproj|c:\\users\\user\\desktop\\05.06.2024\\05.06.2024\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EE7925-B44C-4FEE-B5E9-C70873F4C827}|05.06.2024\\05.06.2024.csproj|solutionrelative:05.06.2024\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EE7925-B44C-4FEE-B5E9-C70873F4C827}|05.06.2024\\05.06.2024.csproj|c:\\users\\user\\desktop\\05.06.2024\\05.06.2024\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EE7925-B44C-4FEE-B5E9-C70873F4C827}|05.06.2024\\05.06.2024.csproj|solutionrelative:05.06.2024\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EE7925-B44C-4FEE-B5E9-C70873F4C827}|05.06.2024\\05.06.2024.csproj|c:\\users\\user\\desktop\\05.06.2024\\05.06.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EE7925-B44C-4FEE-B5E9-C70873F4C827}|05.06.2024\\05.06.2024.csproj|solutionrelative:05.06.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\05.06.2024\\05.06.2024 HelperLibrary\\Helper.cs",
+              "RelativeDocumentMoniker": "05.06.2024 HelperLibrary\\Helper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\05.06.2024\\05.06.2024 HelperLibrary\\Helper.cs",
+              "RelativeToolTip": "05.06.2024 HelperLibrary\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:12:37.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\05.06.2024\\05.06.2024\\Library.cs",
+              "RelativeDocumentMoniker": "05.06.2024\\Library.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\05.06.2024\\05.06.2024\\Library.cs",
+              "RelativeToolTip": "05.06.2024\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:59:22.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\05.06.2024\\05.06.2024\\Book.cs",
+              "RelativeDocumentMoniker": "05.06.2024\\Book.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\05.06.2024\\05.06.2024\\Book.cs",
+              "RelativeToolTip": "05.06.2024\\Book.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:59:10.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\05.06.2024\\05.06.2024\\Program.cs",
+              "RelativeDocumentMoniker": "05.06.2024\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\05.06.2024\\05.06.2024\\Program.cs",
+              "RelativeToolTip": "05.06.2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:58:52.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

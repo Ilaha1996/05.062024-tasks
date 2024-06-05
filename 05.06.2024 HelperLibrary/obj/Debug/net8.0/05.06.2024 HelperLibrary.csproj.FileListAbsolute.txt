@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\bin\Debug\net8.0\05.06.2024 HelperLibrary.deps.json
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\bin\Debug\net8.0\05.06.2024 HelperLibrary.dll
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\bin\Debug\net8.0\05.06.2024 HelperLibrary.pdb
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\obj\Debug\net8.0\05.06.2024 HelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\obj\Debug\net8.0\05.06.2024 HelperLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\obj\Debug\net8.0\05.06.2024 HelperLibrary.AssemblyInfo.cs
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\obj\Debug\net8.0\05.06.2024 HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\obj\Debug\net8.0\05.06.2024 HelperLibrary.dll
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\obj\Debug\net8.0\refint\05.06.2024 HelperLibrary.dll
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\obj\Debug\net8.0\05.06.2024 HelperLibrary.pdb
+C:\Users\USER\source\repos\05.06.2024\05.06.2024 HelperLibrary\obj\Debug\net8.0\ref\05.06.2024 HelperLibrary.dll
